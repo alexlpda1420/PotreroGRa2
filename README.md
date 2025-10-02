@@ -42,3 +42,28 @@ Ejemplo:
   <li>2 huevos</li>
   <li>1/2 taza de leche</li>
 </ul>
+```
+##### 🧂 d. Lista ordenada de los pasos a seguir
+ ```html
+ <ol>
+  <li>Mezcla los ingredientes secos.</li>
+  <li>Agrega los huevos y la leche.</li>
+  <li>Revuelve hasta obtener una masa homogénea.</li>
+</ol>
+```
+
+---
+
+### 🖼️ Ejemplo de vista previa:
+
+> Así se puede ver tu receta en el navegador 👇
+
+![Vista previa de la página](./VistaPrevia.png)
+
+*Esta imagen muestra tu archivo HTML en funcionamiento dentro del navegador.*
+
+---
+
+
+
+
