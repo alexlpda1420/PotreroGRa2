@@ -6,7 +6,7 @@
 
 ## 📘 TAREA N°3
 
-> ¡Bienvenido/a a tu segunda tarea de Frontend! En esta actividad, trabajarás con HTML para crear contenido útil y bien estructurado agregando estilos css.
+> ¡Bienvenido/a a tu tercera tarea de Frontend! En esta actividad, trabajarás con HTML para crear contenido útil y bien estructurado agregando estilos css.
 
 ---
 

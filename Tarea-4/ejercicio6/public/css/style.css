@@ -1,0 +1,53 @@
+/*NO MODIFICAR*/
+
+body {
+    background-color: #fff;
+    color: #333;
+    font: 1.2em / 1.5 Helvetica Neue, Helvetica, Arial, sans-serif;
+    padding: 1em;
+    margin: 0;
+}
+
+ul {
+    width: 800px;
+    height: 490px;
+    list-style:none;
+    padding: 0;
+    margin: 0;
+    border: 2px solid #4D7298;
+}
+
+li {
+    background-color: #4D7298;
+    border: 2px solid #77A6B6;
+    border-radius: .5em;
+    color: #fff;
+    padding: .5em;
+    margin: .5em;
+}
+
+/*DESDE ACA MODIFICAR*/
+/* Modificar los siguientes elementos para que se vea como en la imagen de la consigna */
+ul {
+    display: flex;               /* activa flexbox */
+  justify-content: space-between; /* reparte los items en el eje horizontal */
+  align-items: center;          /* centra los elementos verticalmente en el eje del contenedor */
+  height: 490px;                /* mantiene el alto definido */
+}
+
+.l1 {
+     align-self: center;           /* juan al centro vertical */
+}
+
+.l2 {
+     align-self: flex-end;         /* cristian abajo */
+}
+
+.l3,.l4 {
+     flex-grow: 1;                 /* ramon y pablo se estiran en altura */
+}
+
+.l5 {
+    align-self: flex-start;       /* roberto arriba */
+}
+
